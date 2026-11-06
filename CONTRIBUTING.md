@@ -33,11 +33,11 @@ Si deseas colaborar, puedes seguir estos pasos:
 
 Revisaré las propuestas y los Pull Requests antes de incorporarlos al proyecto, para asegurar que el contenido sea educativo, claro y apropiado para los estudiantes\.
 
-## Nuestro propósito
+## El propósito
 
 Cada contribución puede ayudar a que más estudiantes aprendan inglés mientras desarrollan conciencia ambiental\.
 
 ¡Gracias por apoyar EcoEnglish\!
 
-**Learn English\. Recycle\. Protect El Valle\. 
+Learn English\. Recycle\. Protect El Valle\. 
 
