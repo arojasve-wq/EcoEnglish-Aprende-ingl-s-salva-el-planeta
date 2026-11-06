@@ -1,4 +1,4 @@
-#Guía para contribuir a EcoEnglish
+Guía para contribuir a EcoEnglish
 
 ¡Bienvenido/a a EcoEnglish\!
 
