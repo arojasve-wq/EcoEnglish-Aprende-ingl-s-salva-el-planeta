@@ -1,4 +1,4 @@
-# EcoEnglish-Aprende-ingl-s-salva-el-planeta
+# EcoEnglish Aprende inglés, salva el planeta
 
 EcoEnglish | Aprende inglés mientras cuidas el planeta.
 
